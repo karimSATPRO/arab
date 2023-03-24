@@ -3,6 +3,6 @@
     "description": "Cloudstream Arabic Plugin Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/yoyzo/arab/builds/plugins.json"
+      "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/plugins.json"
     ]
   }
